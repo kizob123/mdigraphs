@@ -5,6 +5,7 @@ export default function Header() {
             <div className="header-info">
                 Malon Awards Statistic
             </div>
+            <div className="info-tab"></div>
         </div>
     )
 }
