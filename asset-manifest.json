@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mdigraphs/static/css/main.826c44c1.css",
+    "main.js": "/mdigraphs/static/js/main.084ea3d3.js",
+    "static/js/787.a624082a.chunk.js": "/mdigraphs/static/js/787.a624082a.chunk.js",
+    "static/media/logo.svg": "/mdigraphs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mdigraphs/index.html",
+    "main.826c44c1.css.map": "/mdigraphs/static/css/main.826c44c1.css.map",
+    "main.084ea3d3.js.map": "/mdigraphs/static/js/main.084ea3d3.js.map",
+    "787.a624082a.chunk.js.map": "/mdigraphs/static/js/787.a624082a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.826c44c1.css",
+    "static/js/main.084ea3d3.js"
+  ]
+}
