@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+  width: 100%;
+  height: 1000px;
+}
+.header{
+  height: 12%;
+  background-color: rgb(165, 165, 135);
+  font-size: xx-large;
+  font-weight: bold;
+  
+}
+.counts{
+  background-color: rgb(197, 160, 160);
+  margin-bottom: -20px;
+  height: 20px;
+}
+.bar{
+  background-color: rgb(191, 193, 233);
+  width: 8%;
+  margin-left: 1px;
+  position: relative;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.number-p{
+margin-top: 0;
+left:8%;
+justify-self: flex-start;
+
+}
+.year-p{
+  margin-bottom: 0;
+  position: relative;
+}
+.yeartab,.year-p,.number-p{
+  color: antiquewhite;
+  font-weight: bold;
+}
+.yeartab{
+  color: black;
+  position: relative;
+}
+
+.yeartabholder{
+  border-right:2px solid black;
+  position: relative;
+  bottom: 0;
+}
+.chartscreen{
+    display: flex;
+    justify-content: flex-start;
+    align-content: flex-start;
+    width: 100%;
+    height: 80%;
+    
+}
+.chart{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-self: center;
+    width: 100%;
+    height: 100%;
+}
+.footer{
+  background-color: blue;
+  position: fixed;
+	top: 90%;
+	min-height: 100vh;
+  width: 100%;
+}
