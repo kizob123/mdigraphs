@@ -1,0 +1,106 @@
+{
+ "data":{"resource": {"awards": [
+    {
+      "id": 1,
+      "isWinner":true,
+      "year":"2018"
+    },
+    {
+      "id": 2,
+      "isWinner":true,
+      "year":"2019"
+    },
+    {
+      "id": 3,
+      "isWinner":true,
+      "year":"2019"
+    },
+    {
+      "id": 4,
+      "isWinner":false,
+      "year":"2019"
+    },
+    {
+      "id": 5,
+      "isWinner":true,
+      "year":"2020"
+    },
+    {
+      "id": 6,
+      "isWinner":true,
+      "year":"2018"
+    },
+    {
+      "id": 7,
+      "isWinner":true,
+      "year":"2020"
+    },
+    {
+      "id": 8,
+      "isWinner":true,
+      "year":"2020"
+    },
+     {
+      "id": 8,
+      "isWinner":true,
+      "year":"2020"
+    },
+     {
+      "id": 8,
+      "isWinner":true,
+      "year":"2020"
+    },
+     {
+      "id": 8,
+      "isWinner":true,
+      "year":"2020"
+    },
+     {
+      "id": 8,
+      "isWinner":true,
+      "year":"2020"
+    },
+     {
+      "id": 8,
+      "isWinner":true,
+      "year":"2020"
+    },
+     {
+      "id": 8,
+      "isWinner":true,
+      "year":"2020"
+    },
+    {
+      "id": 9,
+      "isWinner":true,
+      "year":"2021"
+    },
+    {
+      "id": 10,
+      "isWinner":true,
+      "year":"2022"
+    },
+    {
+      "id": 11,
+      "isWinner":false,
+      "year":"2022"
+    },
+    {
+      "id": 12,
+      "isWinner":true,
+      "year":"2022"
+    },
+    {
+      "id": 13,
+      "isWinner":false,
+      "year":"2022"
+    },
+    {
+      "id": 14,
+      "isWinner":true,
+      "year":"2023"
+    }
+  ]
+}
+}
+}

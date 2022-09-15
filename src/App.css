@@ -12,40 +12,54 @@
 }
 .counts{
   background-color: rgb(197, 160, 160);
-  margin-bottom: -20px;
+  
   height: 20px;
+  margin-left: -40px;
 }
 .info-tab{
   font-size: x-small;
 }
 .bar{
-  background-color: rgb(191, 193, 233);
-  width: 8%;
+  background-color: rgb(13, 13, 16);
+  width: 12%;
   margin-left: 1px;
-  border-bottom: 5% solid black;
+
   position: relative;
   bottom: 0;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  transition: height 1.5s ease-in;
+  justify-content: flex-end;
 }
+
 .number-p{
 margin-top: 0;
 left:8%;
-
+position:fixed;
+justify-self: flex-start;
 }
 .year-p{
   margin-bottom: 0;
   position: relative;
+  justify-self: flex-end;
 }
-.yeartab,.year-p,.number-p{
-  color: antiquewhite;
+.year-p{
+  color: rgb(215, 210, 204);
   font-weight: bold;
 }
 .yeartab{
+  color: rgb(16, 13, 10);
+  font-weight: bold;
+}
+.yeartabholder{
   color: black;
   position: relative;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: space-between;
+
+}
+.number-p{
+  color: rgb(44, 39, 39);
 }
 
 .yeartabholder{
@@ -54,18 +68,41 @@ left:8%;
   bottom: 0;
 }
 .chartscreen{
-    display: flex;
-    justify-content: flex-start;
-    align-content: flex-start;
+   
     width: 100%;
     height: 80%;
     
 }
+.graph{
+  height: 100%;
+  display: flex;
+  width: 100%;
+}
+.bar-in{
+display: flex;
+height: 50%;
+width: 80%;
+overflow: scroll;
+scrollbar-color: green;
+scrollbar-3dlight-color: aqua;
+background-color: rgb(231, 241, 250);
+position: relative;
+top: 10%;
+}
+.pie{
+  
+}
+.lab{
+  position:sticky;
+  top: 0;
+  font-weight: bold;
+  background-color: azure;
+  display: flex;
+  justify-content: flex-start;
+}
 .chart{
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    align-self: center;
+  position: relative;
+   left: 50px;
     width: 100%;
     height: 100%;
 }
